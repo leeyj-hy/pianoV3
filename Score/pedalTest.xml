@@ -1,0 +1,135 @@
+<score-partwise>
+    <head>
+        <tempo>15</tempo>
+        <time>
+            <beats>4</beats>
+            <beat-type>4</beat-type>
+        </time>
+        <defaultRpm_w>152</defaultRpm_w>
+        <defaultRpm_b>80</defaultRpm_b>
+    </head>
+    <part>
+        <BAR barNum = "1">
+            <NOTE noteNum = "1">
+                <note>
+                    <ID>2</ID>
+                    <pitch>
+                        <key>0</key>
+                    </pitch>
+                    <duration>1</duration>
+                    <articulation_t>1</articulation_t>
+                    <articulation_p>1</articulation_p>
+                    <pedal>1</pedal>
+                </note>
+            </NOTE>
+            <NOTE noteNum = "2">
+                <note>
+                    <ID>2</ID>
+                    <pitch>
+                        <key>0</key>
+                    </pitch>
+                    <duration>1</duration>
+                    <articulation_t>1</articulation_t>
+                    <articulation_p>1</articulation_p>
+                    <pedal>2</pedal>
+                </note>
+            </NOTE>
+            <NOTE noteNum = "3">
+                <note>
+                    <ID>2</ID>
+                    <pitch>
+                        <key>0</key>
+                    </pitch>
+                    <duration>1</duration>
+                    <articulation_t>1</articulation_t>
+                    <articulation_p>1</articulation_p>
+                    <pedal>1</pedal>
+                </note>
+            </NOTE>
+            <NOTE noteNum = "4">
+                <note>
+                    <ID>2</ID>
+                    <pitch>
+                        <key>0</key>
+                    </pitch>
+                    <duration>1</duration>
+                    <articulation_t>1</articulation_t>
+                    <articulation_p>1</articulation_p>
+                    <pedal>2</pedal>
+                </note>
+            </NOTE>
+            <NOTE noteNum = "5">
+                <note>
+                    <ID>2</ID>
+                    <pitch>
+                        <key>0</key>
+                    </pitch>
+                    <duration>1</duration>
+                    <articulation_t>1</articulation_t>
+                    <articulation_p>1</articulation_p>
+                    <pedal>1</pedal>
+                </note>
+            </NOTE>
+            <NOTE noteNum = "6">
+                <note>
+                    <ID>2</ID>
+                    <pitch>
+                        <key>0</key>
+                    </pitch>
+                    <duration>1</duration>
+                    <articulation_t>1</articulation_t>
+                    <articulation_p>1</articulation_p>
+                    <pedal>2</pedal>
+                </note>
+            </NOTE>
+            <NOTE noteNum = "7">
+                <note>
+                    <ID>2</ID>
+                    <pitch>
+                        <key>0</key>
+                    </pitch>
+                    <duration>1</duration>
+                    <articulation_t>1</articulation_t>
+                    <articulation_p>1</articulation_p>
+                    <pedal>1</pedal>
+                </note>
+            </NOTE>
+            <NOTE noteNum = "8">
+                <note>
+                    <ID>2</ID>
+                    <pitch>
+                        <key>0</key>
+                    </pitch>
+                    <duration>1</duration>
+                    <articulation_t>1</articulation_t>
+                    <articulation_p>1</articulation_p>
+                    <pedal>2</pedal>
+                </note>
+            </NOTE>
+            <NOTE noteNum = "9">
+                <note>
+                    <ID>2</ID>
+                    <pitch>
+                        <key>0</key>
+                    </pitch>
+                    <duration>1</duration>
+                    <articulation_t>1</articulation_t>
+                    <articulation_p>1</articulation_p>
+                    <pedal>1</pedal>
+                </note>
+            </NOTE>
+            <NOTE noteNum = "10">
+                <note>
+                    <ID>2</ID>
+                    <pitch>
+                        <key>0</key>
+                    </pitch>
+                    <duration>1</duration>
+                    <articulation_t>1</articulation_t>
+                    <articulation_p>1</articulation_p>
+                    <pedal>2</pedal>
+                </note>
+            </NOTE>
+        </BAR>
+    </part>
+</score-partwise>
